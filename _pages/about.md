@@ -2,16 +2,16 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: I am Aoming Liang(梁敖铭), a student at Zhejiang University & Westlake University. 
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   address: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>319 Yungu Compus</p>
+    <p> Zhejiang University, Westlake University</p>
+    <p>Hangzhou, China 310018</p>
 
 news: true  # includes a list of news items
 latest_posts: true  # includes a list of the newest posts
@@ -19,8 +19,11 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am very interested in generative AI and applied mathematics area to solve symbolic regression problems, willing to share and explore knowledge with you!
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+[2014-2018](http://fortawesome.github.io/Font-Awesome/) China Jiliang University, Automation, Bachelor, Supveriosr: Mingyan Zhao
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+[2019-2021](http://fortawesome.github.io/Font-Awesome/) Zhejiang University & University of Arkansas, Agricultural Automation, Master, Supveriosr: Jianping Wang & Yanbin Li & Zhong Chen 
+
+[2022-now](http://fortawesome.github.io/Font-Awesome/) Zhejiang University & Westlake University, Pursuing PhD in Environment Science, Supveriosr: DiXia Fan & Tailin Wu & Zhiqin Xu
+<!-- --> Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
